@@ -1,4 +1,4 @@
 # apportionment
-Apportionment.ipynb explore and play with the apportionment methods described in the paper.
+ Explore and play with the apportionment methods described in the paper with Apportionment.ipynb.
 
-Apportionment_Tables.ipynb reproduce the tables in the paper.
+Reproduce the tables in the paper with Apportionment_Tables.ipynb. 
